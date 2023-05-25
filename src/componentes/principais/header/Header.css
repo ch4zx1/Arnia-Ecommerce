@@ -1,0 +1,28 @@
+.header
+{
+	width: 595px;
+	height: 86px;
+	background-color: #6950A1;
+	display: flex;
+
+}
+
+.header img
+{
+	width: 128px;
+	height: 38px;
+	margin-left: 22px;
+	margin-top: 19px;
+}
+
+.header h1
+{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 48px;
+	color: white;
+
+	margin-left: 250px;
+}

@@ -1,0 +1,88 @@
+.desc span
+{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.desc 
+{
+	display: flex;
+}
+
+.desc input
+{
+	width: 26px;
+	height: 26px;
+    color: #ffffff;
+}
+
+.produto
+{
+	margin-left: 15px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+}
+
+.produto img
+{
+	margin-left: 15px;
+	width: 122px;
+	height: 157px;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+.contador
+{
+	width: 49px;
+	height: 44px;
+	margin-right: 22px;
+	margin-top: 5px;
+	background: #6950A1;
+	border: 1px solid #6950A1;
+	border-radius: 9px;
+}
+
+.contador span
+{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 48px;
+	color: #FFFFFF;
+	margin-left: 14px;
+}
+
+.box-produtos button
+{
+	margin-left: 350px;
+	width: 211px;
+	height: 43px;
+	background: #6950A1;
+	border: 1px solid #6950A1;
+	border-radius: 9px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 30px;
+	color: white;
+}
+
+.box-produtos
+{
+	margin-top: 48px;
+	margin-left: 15px;
+
+	display: flex;
+	flex-wrap: wrap;
+}

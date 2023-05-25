@@ -1,0 +1,17 @@
+.body-q
+{
+	background-color: white;
+	Width: 595px;
+	Height: 665px;
+	padding-top: 6px;
+}
+
+.body-q span
+{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 60px;
+	margin-left: 22px;
+}
